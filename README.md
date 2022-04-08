@@ -9,9 +9,9 @@ for free
 join 
 now,,,
 
-tinyurl.com/ginyos this is the link to join to our server 
+https://tinyurl.com/ginyos this is the link to join to our server 
 mail us 
-chat with our bot now :- tinyurl.com/ginyosbot
+chat with our bot now :- https://tinyurl.com/ginyosbot
 to register ur self for a free wbsite using our bot use these chat inst..
 1 . wait for the first msg and then type hey
 2 . wait fot the 2nd msg and type hp
